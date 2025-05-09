@@ -1,5 +1,5 @@
 import { describe, it } from "mocha";
-import { expect, it } from 'chai'; 
+import { expect} from 'chai'; 
 import { reduceDirection, it } from "../code/niveau3.js";
 
 describe("Traversee dans le Far West", function () {
