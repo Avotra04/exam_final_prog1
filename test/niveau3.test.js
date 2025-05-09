@@ -1,6 +1,6 @@
-import { describe } from "mocha";
-import { expect } from 'chai'; 
-import { reduceDirection } from "../code/niveau3.js";
+import { describe, it } from "mocha";
+import { expect, it } from 'chai'; 
+import { reduceDirection, it } from "../code/niveau3.js";
 
 describe("Traversee dans le Far West", function () {
     describe("Test pour l'exercice niveau 3", function () {
